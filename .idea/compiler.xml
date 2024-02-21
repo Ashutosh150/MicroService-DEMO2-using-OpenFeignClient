@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="API-Gateway" />
+        <module name="question-service" />
+        <module name="quizservice" />
         <module name="quiz-service" />
         <module name="report-service" />
         <module name="result-service" />
-        <module name="question-service" />
         <module name="Service-Registry" />
       </profile>
     </annotationProcessing>
