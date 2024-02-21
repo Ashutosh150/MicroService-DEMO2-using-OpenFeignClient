@@ -4,66 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="671b7873-1136-40c8-8e29-800092d521d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/src/main/java/com/ashu/apigateay/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API-Gateway/src/test/java/com/ashu/apigateay/ApiGatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/src/main/java/com/ashu/registry/serviceregistry/ServiceRegistryApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Service-Registry/src/test/java/com/ashu/registry/serviceregistry/ServiceRegistryApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Controller/QuestionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Entites/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/QuestionServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Repositories/QuestionRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Services/QuestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Services/QuestionServiceIMPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question-service/src/test/java/com/ashu/questionservice/QuestionServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz-service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/src/main/java/com/ashu/reportservice/ReportServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report-service/src/test/java/com/ashu/reportservice/ReportServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/src/main/java/com/ashu/resultservice/ResultServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result-service/src/test/java/com/ashu/resultservice/ResultServiceApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="671b7873-1136-40c8-8e29-800092d521d0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
