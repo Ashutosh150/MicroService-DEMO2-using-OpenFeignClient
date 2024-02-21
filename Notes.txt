@@ -1,0 +1,12 @@
+Quiz service:
+server : 8081
+
+question service:
+server : 8082/9092
+
+
+Service registry:
+server : 8761
+
+API Gateway : 
+server : 8083
