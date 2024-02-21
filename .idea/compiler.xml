@@ -8,13 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="API-Gateway" />
         <module name="question-service" />
-        <module name="quizservice" />
-        <module name="quiz-service" />
         <module name="report-service" />
         <module name="result-service" />
         <module name="Service-Registry" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="quiz-service" target="21" />
+      <module name="quizservice" target="21" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
