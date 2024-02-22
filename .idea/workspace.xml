@@ -4,7 +4,136 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="671b7873-1136-40c8-8e29-800092d521d0" name="Changes" comment="commit" />
+    <list default="true" id="fcf0fbe5-0260-470a-a633-c1fc0f30a0b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MicroServices demo 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/target/classes/com/ashutosh/APIGateway/ApiGatewayApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/java/com/ashutosh/QuestionService/Controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/java/com/ashutosh/QuestionService/Services/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/Question-Service-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/Question-Service-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/com/ashutosh/QuestionService/Controller/QuestionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/com/ashutosh/QuestionService/Entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/com/ashutosh/QuestionService/QuestionServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/com/ashutosh/QuestionService/Repositories/QuestionRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/com/ashutosh/QuestionService/Services/QuestionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/classes/com/ashutosh/QuestionService/Services/QuestionSeviceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/surefire-reports/TEST-com.ashutosh.QuestionService.QuestionServiceApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/surefire-reports/com.ashutosh.QuestionService.QuestionServiceApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Question/target/test-classes/com/ashutosh/QuestionService/QuestionServiceApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Controller/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Entity/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Entity/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/QuizServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Repositories/QuizRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Services/QuestionClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Services/QuizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/java/com/ashutosh/QuizService/Services/QuizServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Controller/QuizController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Entity/Quiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/QuizServiceApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Repositories/QuizRepo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Services/QuestionClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Services/QuizService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/Quiz/target/classes/com/ashutosh/QuizService/Services/QuizServiceIMPL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/target/classes/com/ashutosh/Service/Registry/ServiceRegistryApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/src/main/java/com/ashu/apigateay/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/src/main/java/com/ashutosh/APIGateway/ApiGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API-Gateway/src/test/java/com/ashu/apigateay/ApiGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/API--Gateway/src/test/java/com/ashutosh/APIGateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/src/main/java/com/ashu/registry/serviceregistry/ServiceRegistryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/src/main/java/com/ashutosh/Service/Registry/ServiceRegistryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Service-Registry/src/test/java/com/ashu/registry/serviceregistry/ServiceRegistryApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/src/test/java/com/ashutosh/Service/Registry/ServiceRegistryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Quiz/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Quiz/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Quiz/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Entites/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/java/com/ashutosh/QuestionService/Entity/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/QuestionServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/java/com/ashutosh/QuestionService/QuestionServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Repositories/QuestionRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/java/com/ashutosh/QuestionService/Repositories/QuestionRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Services/QuestionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/ashu/questionservice/Services/QuestionServiceIMPL.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/src/main/java/com/ashutosh/QuestionService/Services/QuestionSeviceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/test/java/com/ashu/questionservice/QuestionServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Question/src/test/java/com/ashutosh/QuestionService/QuestionServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/ServiceRegistry/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/src/main/java/com/ashu/reportservice/ReportServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report-service/src/test/java/com/ashu/reportservice/ReportServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Quiz/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/src/main/java/com/ashu/resultservice/ResultServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-service/src/test/java/com/ashu/resultservice/ResultServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MS_demo2/Quiz/src/test/java/com/ashutosh/QuizService/QuizServiceApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,56 +141,26 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="enabledProfiles">
-      <list>
-        <option value="native" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2cgBKkMxu0rQhnt6QbnMww4GsMn" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2cj3IaY1iHElPDlbqvxtARZAama" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dell/Desktop/Projects/MicroServices demo 2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dell\Desktop\Projects\MicroServices 2\quiz service" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="MicroServices 2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="MicroServices 2" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,25 +171,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="671b7873-1136-40c8-8e29-800092d521d0" name="Changes" comment="" />
-      <created>1708523283746</created>
+      <changelist id="fcf0fbe5-0260-470a-a633-c1fc0f30a0b0" name="Changes" comment="" />
+      <created>1708611081287</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708523283746</updated>
+      <updated>1708611081287</updated>
     </task>
-    <task id="LOCAL-00001" summary="commit">
-      <option name="closed" value="true" />
-      <created>1708524311268</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1708524311268</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
